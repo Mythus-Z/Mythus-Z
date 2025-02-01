@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mythus-Z
-- 👀 I’m interested in ML (though not in a position to talk about it yet.)
+- 👀 I’m interested in ML.
 - 🌱 I’m currently learning a high level programming language (not my first).
 - 💞️ I’m looking to collaborate on intermediate-level projects.
 - 📫 How to reach me -> https://discord.com/channels/1068128621190971435
-- 😄 Pronouns: he/him/his/MEDIOCRITY
-- ⚡ Fun fact: "I've got no friends irl :) Just me, haunting my own life."
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: "Why don’t Python programmers need survival tips in the wild? — Because they already know how to handle exceptions!" 😆🐍
 
 <!---
 Mythus-Z/Mythus-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
