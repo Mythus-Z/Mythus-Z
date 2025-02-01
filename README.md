@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML (though not in a position to talk about it yet.)
 - 🌱 I’m currently learning a high level programming language (not my first).
 - 💞️ I’m looking to collaborate on intermediate-level projects.
-- 📫 How to reach me -> https://discord.com/channels/@me/1243977827863494788
+- 📫 How to reach me -> https://discord.com/channels/1068128621190971435
 - 😄 Pronouns: he/him/his/MEDIOCRITY
 - ⚡ Fun fact: "I've got no friends irl :) Just me, haunting my own life."
 
